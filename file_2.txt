@@ -1,1 +1,2 @@
 "file kedua" 
+"Perubahan pada file pertama"  echo "perubahan pada file kedua"  git add file_1.txt file_2.txt git commit -m "Memperbarui file_1.txt dan file_2.txt dengan perubahan tambahan"
